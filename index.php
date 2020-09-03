@@ -6,6 +6,7 @@
         <li>BRICE</li>
         <li>EMMA</li>
         <li>JEREMY</li>
+        <li>Aegir</li>
         <li>AEGIR</li>
 
     </ul>
