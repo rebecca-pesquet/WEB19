@@ -10,8 +10,8 @@
     </ul>
 <ul>
     <li>Julia</li>
+    <li>Capucine</li>
     <li>Léo</li>
-    <li></li>
     <li></li>
 </ul>
 
