@@ -8,8 +8,8 @@
 </head>
 <body>
     <div id="leo" onmouseover="changer_couleur_1()">Leo</div>
-    <div id="julie" onmouseover="changer_couleur_2()">Capu</div>
+    <div id="julie" onmouseover="changer_couleur_2()">Julie</div>
     <div id="julia" onmouseover="changer_couleur_3()">Julia</div>
-    <div id="capu" onmouseover="changer_couleur_4()">Julie</div>
+    <div id="capu" onmouseover="changer_couleur_4()">Capu</div>
 </body>
 </html>
