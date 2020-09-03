@@ -2,7 +2,7 @@
     <header>
     <title>Page du Groupe 4</title>
     <link rel="stylesheet" href="style.css">
-    <script src="script.js"></script>
+
     </header>
 <html>
 <body>
@@ -11,9 +11,11 @@
     <p>Aaaaaaaaaaaaaaaaaaa c'est pas Emilie</p>
 </div>
 <div id="David">
-    <p>hello je suis David</p>
+    <p>Hello je suis David</p>
 </div>
 
 <div id="lili">Je suis Lili</div>
+
+<script src="script.js"></script>
 </body>
 </html>
