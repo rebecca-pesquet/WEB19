@@ -35,3 +35,4 @@ Amis restons bien à l\'abri<br>
 Mangeons, buvons dans nos maisons de pierres<br>
 Là haut, c\'est peuplé d\'abrutis<br>
 ALLEZ PATRON! Ressers donc une bière!</p>';
+echo '<h2>ozuhefhzeihozef</h2>'
