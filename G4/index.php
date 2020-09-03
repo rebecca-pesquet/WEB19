@@ -14,6 +14,6 @@
     <p>hello</p>
 </div>
 
-<div id="Lili">Je suis Lili</div>
+<div id="lili">Je suis Lili</div>
 </body>
 </html>
