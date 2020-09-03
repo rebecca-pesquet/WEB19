@@ -17,10 +17,10 @@ echo '
 
 <body>
 <h1> G1 </h1>
-<div id="aegir"> AEGIR</div>
-<div id="emma">EMMA </div>
-<div id="jeremy"> JEREMY</div>
-<div id="brice"> BRICE</div>
+<div id="aegir" onclick="displayAlert()" > AEGIR</div>
+<div id="emma" onclick="displayAlert()">EMMA </div>
+<div id="jeremy"onclick="displayAlert()"> JEREMY</div>
+<div id="brice" onclick="displayAlert()"> BRICE</div>
 </body>
 <script src="index.js" ></script>
 </html>';
