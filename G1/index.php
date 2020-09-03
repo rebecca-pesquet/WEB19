@@ -1,2 +1,2 @@
 <?php
-<title> G1 </title>
+<h1> G1 </h1>
