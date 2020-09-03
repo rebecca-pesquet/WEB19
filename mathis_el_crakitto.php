@@ -1,3 +1,5 @@
 <?php
 echo '<h1>ELLLLLL CRAKITTTTOOTOOOOOOOOOOO</h1>';
-echo '<h2>010101101101010011010101001101010101001110101101001011010<br>010110110110101001010101110101101011001010111010</h2>';
+echo 'Emilie fait des jeux de mots d\'une grande finesse';
+echo 'Jordan nous a quitté';
+echo '<h2>La crakitaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</h2>';
