@@ -2,7 +2,7 @@
 
 echo '<h1> G1 </h1>';
 
-echo '<div>EMMA </div>';
-echo '<div> AEGIR</div>';
-echo '<div> JEREMY</div>';
-echo '<div> BRICE</div>';
+echo '<div id="emma">EMMA </div>';
+echo '<div id="aegir"> AEGIR</div>';
+echo '<div id="jeremy"> JEREMY</div>';
+echo '<div id="brice"> BRICE</div>';
