@@ -1,5 +1,6 @@
 <?php
-echo '<p>Nous sommes les nains sous la montagne<br>
+echo '<h1>Gurdil</h1>
+<p>Nous sommes les nains sous la montagne<br>
 On creuse le jour, on boit la nuit<br>
 Et on aime pas ceux dla surface!<br><br>
 Voici l\'histoire d\'un nain capable<br>
