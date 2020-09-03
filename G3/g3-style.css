@@ -2,6 +2,9 @@ body {
     background-color: #FFF ;
 }
 
+div {
+    padding: 1em;
+}
 #Rebecca {
     color : #fff;
     background-color: darkblue;
