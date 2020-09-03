@@ -7,9 +7,9 @@
   <script src="g2.js"></script>
 </head>
 <body>
-    <div id="leo"></div>
-    <div id="julie"></div>
-    <div id="julia"></div>
-    <div id="capu"></div>
+    <div id="leo">Leo</div>
+    <div id="julie">Julia</div>
+    <div id="julia">Julia</div>
+    <div id="capu">Capu</div>
 </body>
 </html>
