@@ -4,7 +4,7 @@
 <h1>Exo GIT</h1>
     <ul>
         <li>BRICE</li>
-        <li>Emma</li>
+        <li>EMMA</li>
         <li></li>
         <li></li>
     </ul>
@@ -14,9 +14,6 @@
     <li></li>
     <li></li>
 </ul>
-
-
-
 
 </body>
 </html>
