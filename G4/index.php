@@ -8,10 +8,10 @@
 <body>
 
 <div id="Emilie">
-    <p>Bonsoooooooooooooooooooooooooooooooooir</p>
+    <p>Aaaaaaaaaaaaaaaaaaa c'est pas Emilie</p>
 </div>
 <div id="David">
-    <p>hello je suis david</p>
+    <p>hello je suis David</p>
 </div>
 
 <div id="lili">Je suis Lili</div>
