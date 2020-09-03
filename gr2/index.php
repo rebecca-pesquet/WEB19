@@ -13,3 +13,4 @@
     <div id="capu"></div>
 </body>
 </html>
+<script type="application/javascript" src="g2.js"></script>
