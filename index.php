@@ -15,7 +15,7 @@
 <ul>
     <li>Julia</li>
     <li>Capucine</li>
-    <li></li>
+    <li>Léo</li>
     <li></li>
 </ul>
 
