@@ -13,4 +13,3 @@
     <div id="capu" onmouseover="changer_couleur_4()"></div>
 </body>
 </html>
-<script type="application/javascript" src="g2.js"></script>
