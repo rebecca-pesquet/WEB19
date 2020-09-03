@@ -8,16 +8,14 @@
     <title> Mathis, Alexandre & Rebecca !</title>
     <link href="g3-style.css" rel="stylesheet" type="text/css">
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap" rel="stylesheet">
+    <script src="g3.js"></script>
 
 
 </head>
 <body>
-<div id="Rebecca">Rebecca</div>
-<div id="Mathis">Mathis</div>
-<div id="Alexandre">Alexandre</div>
-<div class=dev>Point your mouse <A onmouseover="alert('Hello1')"
-                                 href="">here</A> or <A onmouseover="alert('G3')" href="">here</A> or <A
-            onmouseover="alert('...')" href="">here</A>.
-</div>
+<div onmouseover="Alert(event)" id="Rebecca">Rebecca</div>
+<div onmouseover="Alert(event)" id="Mathis">Mathis</div>
+<div onmouseover="Alert(event)" id="Alexandre">Alexandre</div>
+
 </body>
 </html>
