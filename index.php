@@ -7,8 +7,6 @@
         <li>EMMA</li>
         <li>JEREMY</li>
         <li>Aegir</li>
-        <li>AEGIR</li>
-
     </ul>
 <ul>
     <li>emilie</li>
