@@ -1,6 +1,5 @@
 <?php
 
-
 echo '
 <!DOCTYPE html>
 <html>
@@ -11,10 +10,9 @@ echo '
  <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
  
- <title>G1</title>
+<title>G1</title>
  <link rel="stylesheet" href="index.css">
     </head>
-
 <body>
 <h1> G1 </h1>
 <div id="aegir"> AEGIR</div>
