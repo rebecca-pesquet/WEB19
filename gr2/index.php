@@ -9,7 +9,7 @@
 <body>
     <div id="leo">Leo</div>
     <div id="julie">Julia</div>
-    <div id="julia">Julia</div>
+    <div id="julia">Julie</div>
     <div id="capu">Capu</div>
 </body>
 </html>
