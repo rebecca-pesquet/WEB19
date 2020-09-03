@@ -19,11 +19,12 @@
     <li>Julia</li>
     <li>Capucine</li>
     <li>Léo</li>
-    <li></li>
+    <li>Julie</li>
 </ul>
 
 <ul>
     <li>Mathis</li>
+    <li>Rebecca</li>
 </ul>
 </body>
 </html>
