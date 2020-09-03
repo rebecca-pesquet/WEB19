@@ -11,9 +11,9 @@
     <p>Bonsoooooooooooooooooooooooooooooooooir</p>
 </div>
 <div id="David">
-    <p>hello</p>
+    <p>hello je suis david</p>
 </div>
 
-<div id="Lili">Je suis Lili</div>
+<div id="lili">Je suis Lili</div>
 </body>
 </html>
