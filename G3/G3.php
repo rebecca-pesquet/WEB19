@@ -11,9 +11,9 @@
 </head>
 <body>
 
-<div class=dev>Point your mouse <A onmouseover="alert('Hello1')"
-                                 href="">here</A> or <A onmouseover="alert('G3')" href="">here</A> or <A
-            onmouseover="alert('...')" href="">here</A>.
+<div class=dev>Point your mouse <div onmouseover="alert('Hello1')"
+                                 href="">here</div> or <div onmouseover="alert('G3')" href="">here</div> or <div
+            onmouseover="alert('...')" href="">here</div>.
 </div>
 </body>
 </html>
