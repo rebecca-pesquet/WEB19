@@ -5,6 +5,7 @@
     <ul>
         <li>BRICE</li>
         <li>EMMA</li>
+        <li>JEREMY</li>
         <li></li>
         <li></li>
     </ul>
