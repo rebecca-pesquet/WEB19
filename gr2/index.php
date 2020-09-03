@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <title>Groupe 2</title>
-  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="style-gr2.css">
   <script src="g2.js"></script>
 </head>
 <body>
