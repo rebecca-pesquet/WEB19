@@ -6,8 +6,8 @@
         <li>BRICE</li>
         <li>EMMA</li>
         <li>JEREMY</li>
-        <li></li>
-        <li></li>
+        <li>AEGIR</li>
+
     </ul>
 <ul>
     <li>emilie</li>
