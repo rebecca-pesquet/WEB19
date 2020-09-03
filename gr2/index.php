@@ -7,6 +7,9 @@
   <script src="script.js"></script>
 </head>
 <body>
-<div id="work"></div>
+    <div id="leo"></div>
+    <div id="julie"></div>
+    <div id="julia"></div>
+    <div id="capu"></div>
 </body>
 </html>
