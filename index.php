@@ -4,7 +4,7 @@
 <h1>Exo GIT</h1>
 <ul>
     <li>Julia</li>
-    <li></li>
+    <li>Capucine</li>
     <li></li>
     <li></li>
 </ul>
