@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <title>Groupe 2</title>
   <link rel="stylesheet" href="style.css">
-  <script src="script.js"></script>
+  <script type="text/javascript" src="g2.js"></script>
 </head>
 <body>
     <div id="leo" onmouseover="changer_couleur_1()"></div>
